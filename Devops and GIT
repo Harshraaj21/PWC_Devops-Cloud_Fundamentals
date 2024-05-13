@@ -1,0 +1,146 @@
+Question 1
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Each service runs in its own process and communicates with other services through a well-defined interface in Microservices
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+Question 2
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Before DevOps, there is a significant delay between development and operations
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+Question 3
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+The applications with Azure CI/CD pipelines can be deployed to multiple target environments
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+Question 4
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following CI/CD tools is known for its ease of setup, out-of-the-box usability, and beautiful user interface?
+Select one:
+
+CircleCI
+
+Bamboo
+
+Jenkins
+
+TeamCity
+Feedback
+The correct answer is: TeamCity
+Question 5
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+In which of the following, there is no human intervention and only a failed test will prevent a new change to be deployed to production?
+Select one:
+
+Continuous monitoring
+
+Continuous Integration
+
+Continuous Delivery
+
+Continuous Deployment
+Feedback
+The correct answer is: Continuous Deployment
+Question 6
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following CI/CD toolsprovides support for .Net framework?
+Select one:
+
+GitLab
+
+Bamboo
+
+CircleCI
+
+TeamCity
+Feedback
+The correct answer is: TeamCity
+Question 7
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following is the final phase of the DevOps cycle?
+Select one:
+
+Monitor
+
+Operate
+
+Deploy
+
+Release
+Feedback
+The correct answer is: Monitor
+Question 8
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+In YAML file used for BitBucket pipeline, you can use different types of container for each step by selecting different images
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+Question 9
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following CI/CD tools is a continuous integration server developed by Atlassian?
+Select one:
+
+TeamCity
+
+Bamboo
+
+GitLab
+
+Jenkins
+Feedback
+The correct answer is: Bamboo
+Question 10
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+In which of the following pipelines, all the new changes run through a consistent set of quality checks?
+Select one:
+
+GitLab pipeline
+
+AWS codpipeline
+
+Bitbucket pipeline
+
+Azure pipeline
+Feedback
+The correct answer is: AWS codpipeline
